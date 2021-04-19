@@ -1,6 +1,6 @@
 # RITSEC Hash - 250
-
 ## Solved by: DeadlyKitten
+## 56 Solves
 
 > Hmmm.. we found this hash along with a white paper explaining this custom hashing algorithm.
 

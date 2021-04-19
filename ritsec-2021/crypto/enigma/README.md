@@ -1,6 +1,6 @@
 # Enigma - 100
-
 ## Solved by: oneNutW0nder
+## 176 Solves
 
 > Turing with 3 allies was the bomb...
 

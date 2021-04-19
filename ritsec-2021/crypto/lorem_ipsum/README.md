@@ -1,6 +1,6 @@
 # Lorem Ipsum - 150
-
 ## Solved by: oneNutW0nder
+## 135 Solves
 
 > Flag is case sensitive.
 
